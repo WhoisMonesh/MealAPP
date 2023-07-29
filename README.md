@@ -3,7 +3,7 @@
 [Meal App Logo]
 
 
-![Meal App Logo](https://github.com/WhoisMonesh/MealAPP/assets/31161039/abcf50a6-7e9b-43cd-9247-c45f74a3d649)#
+![Meal App Logo](https://github.com/WhoisMonesh/MealApp/blob/main/Meal%20App%20-%20Google%20Chrome%2029-07-2023%2020_58_59.png?raw=true)
 
 
 The Meal App is a web application that allows users to search for meals and explore various recipes. It provides a user-friendly interface to discover delicious meal ideas and save favorite recipes for quick access.
